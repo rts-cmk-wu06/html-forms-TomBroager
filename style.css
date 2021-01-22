@@ -1,0 +1,28 @@
+/* CSS stylesheet */
+
+fieldset {
+    background-color: antiquewhite; border: solid 5px #005da1;
+}
+
+legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+input {
+    margin: .4rem; background-color: aqua;
+}
+
+textarea {
+    background-color: aqua;
+}
+
+button {
+    margin-top: 10px;
+    background-color: black; color: rgb(253, 253, 253);
+}
+
+label {
+    font-style: italic; font-weight: bold; color: crimson;
+}
