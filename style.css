@@ -1,7 +1,7 @@
 /* CSS stylesheet */
 
 fieldset {
-    background-color: antiquewhite; border: solid 5px #005da1;
+    background-color: rgb(200, 250, 253); border: solid 5px #005da1;
 }
 
 legend {
@@ -11,11 +11,11 @@ legend {
 }
 
 input {
-    margin: .4rem; background-color: aqua;
+    margin: .4rem; background-color: rgb(250, 248, 219);
 }
 
 textarea {
-    background-color: aqua;
+    background-color:rgb(250, 248, 219);
 }
 
 button {
